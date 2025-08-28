@@ -1,0 +1,308 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.0.6 Chrome/138.0.7204.100 Electron/37.2.3 Safari/537.36" version="28.0.6">
+  <diagram name="Страница — 1" id="2QDARGbRPJkBcWVtj4WU">
+    <mxGraphModel dx="2074" dy="1368" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vgIfTBwHjKetnPNESOcY-34" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="60" y="380" width="1300" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="vgIfTBwHjKetnPNESOcY-30" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="60" y="260" width="1300" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="vgIfTBwHjKetnPNESOcY-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="vgIfTBwHjKetnPNESOcY-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="1680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vgIfTBwHjKetnPNESOcY-1" value="CRM UI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="60" y="80" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vgIfTBwHjKetnPNESOcY-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="vgIfTBwHjKetnPNESOcY-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="1680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vgIfTBwHjKetnPNESOcY-3" value="CRM API" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="330" y="80" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vgIfTBwHjKetnPNESOcY-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="vgIfTBwHjKetnPNESOcY-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="1680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vgIfTBwHjKetnPNESOcY-4" value="Redis" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="670" y="80" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vgIfTBwHjKetnPNESOcY-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="vgIfTBwHjKetnPNESOcY-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="920" y="1680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vgIfTBwHjKetnPNESOcY-5" value="PostreSQL" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="870" y="80" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vgIfTBwHjKetnPNESOcY-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="vgIfTBwHjKetnPNESOcY-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1100" y="1680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vgIfTBwHjKetnPNESOcY-6" value="RabbitMQ" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="80" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vgIfTBwHjKetnPNESOcY-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="vgIfTBwHjKetnPNESOcY-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1310" y="1680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vgIfTBwHjKetnPNESOcY-7" value="MES API" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="80" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vgIfTBwHjKetnPNESOcY-15" value="Чтение списка заказов" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="60" y="130" width="1300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vgIfTBwHjKetnPNESOcY-16" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="200" as="sourcePoint" />
+            <mxPoint x="380" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vgIfTBwHjKetnPNESOcY-19" value="&lt;div style=&quot;overflow: auto; padding: 9.144px 13.716px; text-wrap-mode: wrap; word-break: break-all; color: rgb(73, 73, 73); text-align: start; margin: 0px !important;&quot;&gt;GET /orders?status=active&lt;span style=&quot;color: rgb(64, 120, 242);&quot; class=&quot;token operator&quot;&gt;&amp;amp;&lt;/span&gt;page=1&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="120" y="170" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vgIfTBwHjKetnPNESOcY-21" value="&lt;div style=&quot;overflow: auto; padding: 9.144px 13.716px; word-break: break-all; text-align: start; margin: 0px !important; color: rgb(73, 73, 73);&quot;&gt;&lt;font color=&quot;#494949&quot;&gt;Запрос кеша: orders:user:123:page:1:filter:status=active&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="400" y="210" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vgIfTBwHjKetnPNESOcY-24" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="240" as="sourcePoint" />
+            <mxPoint x="720" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vgIfTBwHjKetnPNESOcY-25" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="298" as="sourcePoint" />
+            <mxPoint x="380" y="298" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vgIfTBwHjKetnPNESOcY-26" value="&lt;div style=&quot;overflow: auto; padding: 9.144px 13.716px; word-break: break-all; text-align: start; margin: 0px !important; color: rgb(73, 73, 73);&quot;&gt;&lt;font color=&quot;#494949&quot;&gt;Возврат кешированных данных&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="400" y="268" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vgIfTBwHjKetnPNESOcY-27" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="348" as="sourcePoint" />
+            <mxPoint x="110" y="348" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vgIfTBwHjKetnPNESOcY-28" value="&lt;div style=&quot;overflow: auto; padding: 9.144px 13.716px; word-break: break-all; text-align: start; margin: 0px !important; color: rgb(73, 73, 73);&quot;&gt;&lt;font color=&quot;#494949&quot;&gt;200 OK (кешированный ответ)&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="140" y="318" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vgIfTBwHjKetnPNESOcY-31" value="Кеш найден" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" vertex="1" parent="1">
+          <mxGeometry x="30" y="305" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vgIfTBwHjKetnPNESOcY-35" value="Кеш отсутсвует" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" vertex="1" parent="1">
+          <mxGeometry x="10" y="465" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vgIfTBwHjKetnPNESOcY-36" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="425" as="sourcePoint" />
+            <mxPoint x="920" y="425" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vgIfTBwHjKetnPNESOcY-37" value="&lt;div style=&quot;overflow: auto; padding: 9.144px 13.716px; white-space: pre-wrap; word-break: break-all; color: rgb(73, 73, 73); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; margin: 0px !important;&quot;&gt;SELECT * FROM orders WHERE status=&#39;active&#39;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="440" y="390" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vgIfTBwHjKetnPNESOcY-38" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="920" y="479.58" as="sourcePoint" />
+            <mxPoint x="380" y="479.58" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vgIfTBwHjKetnPNESOcY-39" value="&lt;div style=&quot;overflow: auto; padding: 9.144px 13.716px; white-space: pre-wrap; word-break: break-all; color: rgb(73, 73, 73); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; margin: 0px !important;&quot;&gt;Результаты запроса&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="528" y="442" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vgIfTBwHjKetnPNESOcY-40" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="530" as="sourcePoint" />
+            <mxPoint x="720" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vgIfTBwHjKetnPNESOcY-41" value="&lt;div style=&quot;overflow: auto; padding: 9.144px 13.716px; word-break: break-all; text-align: start; margin: 0px !important; color: rgb(73, 73, 73);&quot;&gt;&lt;div style=&quot;overflow: auto; padding: 9.144px 13.716px; text-wrap-mode: wrap; word-break: break-all; font-size: 12.573px; margin: 0px !important;&quot;&gt;Сохранение в кеш&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="380" y="502" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vgIfTBwHjKetnPNESOcY-42" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="570" as="sourcePoint" />
+            <mxPoint x="110" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vgIfTBwHjKetnPNESOcY-43" value="&lt;div style=&quot;overflow: auto; padding: 9.144px 13.716px; word-break: break-all; text-align: start; margin: 0px !important; color: rgb(73, 73, 73);&quot;&gt;&lt;font color=&quot;#494949&quot;&gt;200 OK&amp;nbsp;(свежие данные)&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="140" y="540" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vgIfTBwHjKetnPNESOcY-44" value="Изменение статуса заказа" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="60" y="620" width="1300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vgIfTBwHjKetnPNESOcY-45" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="690" as="sourcePoint" />
+            <mxPoint x="380" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vgIfTBwHjKetnPNESOcY-46" value="&lt;div style=&quot;overflow: auto; padding: 9.144px 13.716px; word-break: break-all; text-align: start; margin: 0px !important; color: rgb(73, 73, 73);&quot;&gt;&lt;font color=&quot;#494949&quot;&gt;PATCH /orders/456 {status: &quot;STARTED&quot;}&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="120" y="660" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vgIfTBwHjKetnPNESOcY-47" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="735" as="sourcePoint" />
+            <mxPoint x="920" y="735" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vgIfTBwHjKetnPNESOcY-48" value="&lt;div style=&quot;overflow: auto; padding: 9.144px 13.716px; white-space: pre-wrap; word-break: break-all; color: rgb(73, 73, 73); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; margin: 0px !important;&quot;&gt;UPDATE orders SET status=&#39;STARTED&#39;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="440" y="700" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vgIfTBwHjKetnPNESOcY-49" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="920" y="787.5799999999999" as="sourcePoint" />
+            <mxPoint x="380" y="787.5799999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vgIfTBwHjKetnPNESOcY-50" value="&lt;div style=&quot;overflow: auto; padding: 9.144px 13.716px; white-space: pre-wrap; word-break: break-all; color: rgb(73, 73, 73); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; margin: 0px !important;&quot;&gt;ОК&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="528" y="750" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vgIfTBwHjKetnPNESOcY-51" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="848" as="sourcePoint" />
+            <mxPoint x="720" y="848" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vgIfTBwHjKetnPNESOcY-52" value="&lt;div style=&quot;overflow: auto; padding: 9.144px 13.716px; word-break: break-all; text-align: start; margin: 0px !important; color: rgb(73, 73, 73);&quot;&gt;&lt;div style=&quot;overflow: auto; padding: 9.144px 13.716px; text-wrap-mode: wrap; word-break: break-all; font-size: 12.573px; margin: 0px !important;&quot;&gt;Удаление ключей: orders:* (паттерн)&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="380" y="820" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vgIfTBwHjKetnPNESOcY-53" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="916" as="sourcePoint" />
+            <mxPoint x="1100" y="916" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vgIfTBwHjKetnPNESOcY-54" value="&lt;div style=&quot;overflow: auto; padding: 9.144px 13.716px; word-break: break-all; text-align: start; margin: 0px !important; color: rgb(73, 73, 73);&quot;&gt;&lt;div style=&quot;overflow: auto; padding: 9.144px 13.716px; text-wrap-mode: wrap; word-break: break-all; font-size: 12.573px; margin: 0px !important;&quot;&gt;Отправка сообщения: order.status.updated&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="400" y="886" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vgIfTBwHjKetnPNESOcY-57" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1100" y="960" as="sourcePoint" />
+            <mxPoint x="1310" y="960" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vgIfTBwHjKetnPNESOcY-58" value="&lt;div style=&quot;overflow: auto; padding: 9.144px 13.716px; word-break: break-all; text-align: start; margin: 0px !important; color: rgb(73, 73, 73);&quot;&gt;&lt;div style=&quot;overflow: auto; padding: 9.144px 13.716px; text-wrap-mode: wrap; word-break: break-all; font-size: 12.573px; margin: 0px !important;&quot;&gt;Доставка сообщения&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="930" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vgIfTBwHjKetnPNESOcY-60" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1320" y="1000" as="sourcePoint" />
+            <mxPoint x="1320" y="1100" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1360" y="1050" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vgIfTBwHjKetnPNESOcY-61" value="&lt;div style=&quot;overflow: auto; padding: 9.144px 13.716px; word-break: break-all; text-align: start; margin: 0px !important; color: rgb(73, 73, 73);&quot;&gt;&lt;div style=&quot;overflow: auto; padding: 9.144px 13.716px; text-wrap-mode: wrap; word-break: break-all; font-size: 12.573px; margin: 0px !important;&quot;&gt;Обновление&lt;br&gt;статуса в MES&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="1030" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vgIfTBwHjKetnPNESOcY-62" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="1000" as="sourcePoint" />
+            <mxPoint x="110" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vgIfTBwHjKetnPNESOcY-63" value="&lt;div style=&quot;overflow: auto; padding: 9.144px 13.716px; word-break: break-all; text-align: start; margin: 0px !important; color: rgb(73, 73, 73);&quot;&gt;&lt;font color=&quot;#494949&quot;&gt;200 OK&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="180" y="970" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vgIfTBwHjKetnPNESOcY-64" value="Последующее чтение (инвалидация сработала)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1180" width="1300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vgIfTBwHjKetnPNESOcY-65" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="1260" as="sourcePoint" />
+            <mxPoint x="380" y="1260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vgIfTBwHjKetnPNESOcY-66" value="&lt;div style=&quot;overflow: auto; padding: 9.144px 13.716px; word-break: break-all; text-align: start; margin: 0px !important; color: rgb(73, 73, 73);&quot;&gt;&lt;font color=&quot;#494949&quot;&gt;GET /orders?status=active&amp;amp;page=1&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1230" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vgIfTBwHjKetnPNESOcY-67" value="&lt;div style=&quot;overflow: auto; padding: 9.144px 13.716px; word-break: break-all; text-align: start; margin: 0px !important; color: rgb(73, 73, 73);&quot;&gt;&lt;font color=&quot;#494949&quot;&gt;Запрос кеша: orders:user:123:page:1:filter:status=active&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1270" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vgIfTBwHjKetnPNESOcY-68" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="1300" as="sourcePoint" />
+            <mxPoint x="720" y="1300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vgIfTBwHjKetnPNESOcY-69" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="1365" as="sourcePoint" />
+            <mxPoint x="380" y="1365" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vgIfTBwHjKetnPNESOcY-70" value="&lt;div style=&quot;overflow: auto; padding: 9.144px 13.716px; word-break: break-all; text-align: start; margin: 0px !important; color: rgb(73, 73, 73);&quot;&gt;&lt;font color=&quot;#494949&quot;&gt;Кеш отсутствует (был удален)&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1335" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vgIfTBwHjKetnPNESOcY-71" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="1422" as="sourcePoint" />
+            <mxPoint x="920" y="1422" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vgIfTBwHjKetnPNESOcY-72" value="&lt;div style=&quot;overflow: auto; padding: 9.144px 13.716px; white-space: pre-wrap; word-break: break-all; color: rgb(73, 73, 73); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; margin: 0px !important;&quot;&gt;SELECT * FROM orders WHERE status=&#39;active&#39;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1387" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vgIfTBwHjKetnPNESOcY-73" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="920" y="1476.58" as="sourcePoint" />
+            <mxPoint x="380" y="1476.58" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vgIfTBwHjKetnPNESOcY-74" value="&lt;div style=&quot;overflow: auto; padding: 9.144px 13.716px; white-space: pre-wrap; word-break: break-all; color: rgb(73, 73, 73); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; margin: 0px !important;&quot;&gt;Результаты (с обновленным статусом)&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1439" width="228" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vgIfTBwHjKetnPNESOcY-75" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="1538" as="sourcePoint" />
+            <mxPoint x="720" y="1538" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vgIfTBwHjKetnPNESOcY-76" value="&lt;div style=&quot;overflow: auto; padding: 9.144px 13.716px; word-break: break-all; text-align: start; margin: 0px !important; color: rgb(73, 73, 73);&quot;&gt;&lt;div style=&quot;overflow: auto; padding: 9.144px 13.716px; text-wrap-mode: wrap; word-break: break-all; font-size: 12.573px; margin: 0px !important;&quot;&gt;Сохранение в кеш&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="380" y="1510" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vgIfTBwHjKetnPNESOcY-77" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="1610" as="sourcePoint" />
+            <mxPoint x="110" y="1610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vgIfTBwHjKetnPNESOcY-78" value="&lt;div style=&quot;overflow: auto; padding: 9.144px 13.716px; word-break: break-all; text-align: start; margin: 0px !important; color: rgb(73, 73, 73);&quot;&gt;&lt;font color=&quot;#494949&quot;&gt;200 OK&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1580" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vgIfTBwHjKetnPNESOcY-79" value="CRM UI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1680" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vgIfTBwHjKetnPNESOcY-80" value="CRM API" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1680" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vgIfTBwHjKetnPNESOcY-81" value="Redis" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="670" y="1680" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vgIfTBwHjKetnPNESOcY-82" value="PostreSQL" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="870" y="1680" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vgIfTBwHjKetnPNESOcY-83" value="RabbitMQ" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="1680" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vgIfTBwHjKetnPNESOcY-84" value="MES API" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="1680" width="100" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
